@@ -1,6 +1,7 @@
 __author__ = "Cecilia Casarini"
 
 # This code defines a class and various methods to analyze a text file containing baby names
+# Developed during the course Compuer Programming for Speech and Language Processing at the University of Edinburgh (2015 - 2016)
 
 
 class Babies:
